@@ -16,10 +16,6 @@ ________________________________________________________________________________
 
 - ⚡ Fun fact: I'm an amateur sports climber and I love the outdoors
 
-Connect with me: https://www.linkedin.com/in/ignacio-williams-full-stack-back-end/
-
-Languages and Tools: bootstrap css3 express html5 javascript mysql nodejs postgresql insomnia react redux typescript 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ignacio-williams-full-stack-back-end/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo molina rudich" height="30" width="40" /></a>
